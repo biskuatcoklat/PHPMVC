@@ -1,5 +1,5 @@
 # What's PHPMVC?
-The purpose of making this MVC (Model , View , Controller) concept is to make it easier for developers to collaborate on projects easily, this PHP MVC uses the PHP OOP and PDO methods. avoids databases from what is called SQL injection.
+The purpose of making this MVC (Model , View , Controller) concept is to make it easier for developers to collaborate on projects easily, this PHP MVC uses the PHP OOP and PDO methods.
 # How To Learning MVC?
 and most importantly if you want to learn mvc you must understand PHP BASIC , PHP WEB AND DBMS(Database Management System), PHP OOP(Object Oriented), and PHP PDO(PHP Data Object).
 # PHP MVC Used For What?
